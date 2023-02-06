@@ -18,6 +18,7 @@ import androidx.core.app.ActivityCompat;
 @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
 public class MainActivity extends AppCompatActivity implements ActivityCompat.OnRequestPermissionsResultCallback {
 
+    // https://zatackcoder.com/android-camera-2-api-example-without-preview/
     // https://github.com/rajeshkumarsahanee/Android-Camera-2-Api-Example-With-And-Without-Preview
 
     CameraControllerV2WithPreview ccv2WithPreview;
